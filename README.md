@@ -1,4 +1,10 @@
-# ouwen
+# 工匠精神
+
+前端项目地址：[https://github.com/dont-sleep-so-late/JavaWebExamine](https://github.com/dont-sleep-so-late/JavaWebExamine)
+
+后端项目地址：[https://github.com/dont-sleep-so-late/JavaWebExamineBackend](https://github.com/dont-sleep-so-late/JavaWebExamineBackend)
+
+#craftmansSpirit
 
 ## Project setup
 ```
@@ -22,3 +28,4 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
